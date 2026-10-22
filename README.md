@@ -3,7 +3,7 @@ Mostly old DOS games, DOSBox, and small tools that do one job.
 Lately it's been Terra Nova: Strike Force Centauri (Looking Glass, 1996):
 
 - [terra-nova-plus](https://github.com/skw-1337/terra-nova-plus): HD 1280x720 in true 16:9, mouse freelook, key remapping and bug fixes, from one launcher
-- [terra-nova-uplink](https://github.com/skw-1337/terra-nova-uplink): the game redrawn in modern 3D, to fly around every map or play it live (prototype), using your own game files
+- [terra-nova-uplink](https://github.com/skw-1337/terra-nova-uplink): the game redrawn in modern 3D, to fly around every map, play it live, or play it with a friend online (prototypes), using your own game files
 - [terra-nova-freelook](https://github.com/skw-1337/terra-nova-freelook): just the freelook, if that's all you want
 
 Bugs, ideas, "doesn't work on my DOSBox": [discussions](https://github.com/skw-1337/terra-nova-plus/discussions).
