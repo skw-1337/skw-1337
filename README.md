@@ -25,6 +25,8 @@ Come talk: [Discord](https://discord.gg/UqtEpuUZh3) · [TTLG thread](https://www
   </tr>
 </table>
 
+<p align="center"><a href="https://github.com/skw-1337/terra-nova-uplink"><img src="assets/uplink-action.gif" alt="Terra Nova Uplink live mode: a missile fight on the red planet" width="640"></a></p>
+
 And [terra-nova-freelook](https://github.com/skw-1337/terra-nova-freelook): just the freelook, if that's all you want.
 
 Bugs, ideas, "doesn't work on my DOSBox": [discussions](https://github.com/skw-1337/terra-nova-plus/discussions) or the [Discord](https://discord.gg/UqtEpuUZh3).
