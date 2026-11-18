@@ -2,7 +2,7 @@
 
 Mostly old PC games: DOS games in DOSBox, Windows games from around 2000, and small tools that do one job.
 
-**New:** a big Terra Nova Uplink update is on the way (closer to the original game's colours and light, smoother units, co-op fixes).
+**New:** Terra Nova Uplink 2.8 is out as a beta: graphics presets, an order wheel for the squad, an in-game menu, accessibility options, and a lot of co-op work. Open the launcher, press PLAY, then "Try the beta". [What's in it, and the roadmap](https://www.ttlg.com/forums/showthread.php?t=153557&p=2545417#post2545417).
 
 Come talk: [Discord](https://discord.gg/UqtEpuUZh3) · [TTLG thread](https://www.ttlg.com/forums/showthread.php?t=153557) · [Steam thread](https://steamcommunity.com/app/368600/discussions/0/594068102507001179/)
 
